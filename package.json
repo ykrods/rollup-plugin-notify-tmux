@@ -1,0 +1,22 @@
+{
+  "name": "rollup-plugin-notify-tmux",
+  "version": "0.0.1",
+  "description": "A rollup plugin to notify build status via tmux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykrods/rollup-plugin-notify-tmux.git"
+  },
+  "keywords": [
+    "rollup"
+  ],
+  "author": "ykrods",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ykrods/rollup-plugin-notify-tmux/issues"
+  },
+  "homepage": "https://github.com/ykrods/rollup-plugin-notify-tmux#readme"
+}
