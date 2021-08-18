@@ -26,5 +26,9 @@ export default {
 
 ```shell
 $ tmux
-$ npm run dev
+$ npm run dev  # rollup -c -w
 ```
+
+## TODO
+
+- [ ] Add test
